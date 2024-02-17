@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start">开始录音</string>
+    <string name="end">停止录音并识别</string>
+    <string name="result">识别结果</string>
+    <string name="login">登录</string>
+    <string name="search">搜索识别结果</string>
+</resources>
